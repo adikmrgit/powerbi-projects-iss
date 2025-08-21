@@ -17,7 +17,6 @@ Provides a global overview of ESG-related controversies. It enables users to ana
 ## 2. 📌 ESG Controversy & Operations Dashboard  
 *Monitoring ESG controversies while tracking operational performance.*  
 
-📷 **Screenshot Placeholder**:  
 ![Controversy & Operations Dashboard](images/drilldown-small.gif)  
 
 Built to monitor ESG-related controversies while also supporting internal operations tracking. It provides drill-down analysis across themes (Environmental, Social, Governance), controversy areas, analysts, companies, and regions. The dashboard also supports operations monitoring by tracking analyst activity, event volumes, and source coverage, enabling teams to streamline workflows and improve visibility into emerging issues.  
@@ -29,7 +28,6 @@ Built to monitor ESG-related controversies while also supporting internal operat
 ## 3. 📰 ESG Newsletter & Monitoring Dashboard  
 *Turning ESG controversy data into newsletter-ready insights.*  
 
-📷 **Screenshot Placeholder**:  
 ![Newsletter & Monitoring Dashboard](images/newsletter-small.gif)  
 
 Designed to track and summarize ESG-related controversies over a selected time range. It provides filters by company, region, sector, and controversy area, along with keyword-based headline search. Visuals include distribution by theme (Environment, Social, Governance), geographic treemap, and company-event scatterplots. This dashboard enables fast generation of newsletter-ready insights, improving communication and awareness of emerging ESG issues.  
@@ -38,10 +36,9 @@ Designed to track and summarize ESG-related controversies over a selected time r
 
 ---
 
-## 4. 🏷️ ESG Keywords & Norms Dashboard  
+## 4. 🏷️ ESG Keywords & Norms Guide  
 *Reference tool to classify and standardize ESG issue tagging.*  
 
-📷 **Screenshot Placeholder**:  
 ![Keyword & Norms Dashboard](images/guidebook-small.gif)  
 
 Designed as a reference and classification tool for ESG-related topics. It allows users to search and filter keywords (e.g., biodiversity, climate regulation, child labour), view their mapping to themes and categories, and check their scope within norm-based research. Visuals include category mappings and detailed keyword descriptions to support consistent tagging and analysis. This tool reduces manual lookup effort and improves efficiency for analysts by standardizing how ESG issues are categorized.  
