@@ -1,4 +1,4 @@
-# 📊 Power BI Work Samples – ESG Dashboards  
+# 📊 Work Samples (ISS) - ESG Dashboards w/ Power BI
 This is a collection of Power BI dashboards developed to analyze, monitor, and report on ESG (Environmental, Social, and Governance) data. Each project demonstrates expertise in data modeling, DAX, visualization, and interactive reporting while showcasing solutions that improve operational monitoring, research accuracy, and communication efficiency.  
 
 ---
